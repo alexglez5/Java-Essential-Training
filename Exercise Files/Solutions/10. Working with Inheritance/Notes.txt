@@ -1,0 +1,28 @@
+Inheritance in Java
+- Relationship between multiple classes 
+- Java supports single inheritance
+- Each class can extend multiple interfaces
+
+About Inheritance
+- Inheritance relationship can be described as 
+	- Parent/child
+	- Base/derived
+	- Superclass/subclass (preferred Java vocabulary)
+
+About Polymorphism
+- Addresses an object as either super or subtype
+Ex: List object = new ArrayList();
+- Writes methods that accepts supertype as arguments
+- Passes instances of subtypes
+- Increases code flexibility and re-usability   
+
+Super-classes
+- Super-classes don't need special code
+- If a class isn't final, it can be extended
+- All fields and methods are inherited unless marked as private
+- Mark fields as private and add public setter/getter methods
+- Mark methods as protected or public 
+
+Subclasses Extend Super-classes 
+- Use extends keyword in subclasses declaration to create
+the inheritance relationship 
