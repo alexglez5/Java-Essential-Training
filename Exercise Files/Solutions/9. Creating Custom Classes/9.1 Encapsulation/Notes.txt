@@ -1,0 +1,17 @@
+Encapsulation:
+- Packaging complex functionality for ease of programming 
+- Access to individual functions can be restricted 
+- Hide complex functionality in methods
+- The true nature of encapsulated data may also be hidden 
+
+Benefits:
+- Breaking functionality into small, maintainable units
+- Grouping functions and data together
+- Supporting testing of software at a granular level
+
+analogy: a soda machine, you just see a big box and you just have 
+to press a bottom, but you don't need to see all the details inside it
+
+Non-Encapsulated Code
+- Everything inside main
+- Thousands lines of code in one place
